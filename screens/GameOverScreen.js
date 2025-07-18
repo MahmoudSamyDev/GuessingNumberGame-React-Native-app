@@ -16,7 +16,7 @@ import {
     ScrollView,
 } from "react-native";
 import Title from "../components/ui/Title";
-import Colors from "../constants/colors";
+import Colors from "../constants/Colors";
 import PrimaryButton from "../components/ui/PrimaryButton";
 
 /**

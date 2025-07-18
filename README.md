@@ -3,8 +3,10 @@
 A fun and interactive React Native mobile game where you pick a number and challenge the computer to guess it! Built with Expo and featuring a beautiful gradient UI with responsive design.
 
 ## 📱 Screenshots
-
-*Add screenshots of your app here*
+![Start Screen](screenshots/1.webp)
+![Game Screen](screenshots/2.webp)
+![Game Screen](screenshots/3.webp)
+![Game Over Screen](screenshots/4.webp)
 
 ## 🎯 Game Rules
 

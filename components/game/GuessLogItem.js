@@ -8,7 +8,7 @@
  */
 
 import { StyleSheet, Text, View } from 'react-native';
-import Colors from '../../constants/colors';
+import Colors from '../../constants/Colors';
 
 /**
  * GuessLogItem component - Individual item in the guess history list.

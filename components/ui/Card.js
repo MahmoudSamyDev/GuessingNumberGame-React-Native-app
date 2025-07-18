@@ -8,7 +8,7 @@
  */
 
 import { StyleSheet, View, Dimensions } from 'react-native';
-import Colors from '../../constants/colors';
+import Colors from '../../constants/Colors';
 
 /**
  * Card component - Reusable container with card-like appearance.
@@ -70,6 +70,6 @@ const styles = StyleSheet.create({
         justifyContent: "center",
         alignItems: "center",
     },
-})
+});
 
 export default Card;

@@ -18,10 +18,13 @@ import {
 } from "react-native";
 import PrimaryButton from "../components/ui/PrimaryButton";
 import Card from "../components/ui/Card";
-import Colors from "../constants/colors";
+import Colors from "../constants/Colors";
 import Title from "../components/ui/Title";
 import InstructionText from "../components/ui/InstructionText";
 import { useState } from "react";
+
+
+console.log(Card, PrimaryButton, Title, InstructionText);
 
 /**
  * StartGameScreen component - Initial screen where users enter their number.

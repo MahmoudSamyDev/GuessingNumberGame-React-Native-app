@@ -8,7 +8,7 @@
  */
 
 import { StyleSheet, Text, View, Pressable } from "react-native";
-import Colors from "../../constants/colors";
+import Colors from "../../constants/Colors";
 
 /**
  * PrimaryButton component - Main button used throughout the app.

@@ -8,7 +8,7 @@
  */
 
 import { StyleSheet, Text, View, Dimensions } from "react-native";
-import Colors from "../../constants/colors";
+import Colors from "../../constants/Colors";
 
 /**
  * NumberContainer component - Displays numbers with prominent styling.

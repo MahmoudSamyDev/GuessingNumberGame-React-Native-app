@@ -8,7 +8,7 @@
  */
 
 import { StyleSheet, Text } from 'react-native';
-import Colors from '../../constants/colors';
+import Colors from '../../constants/Colors';
 
 /**
  * InstructionText component - Displays styled instruction text.
@@ -55,3 +55,6 @@ const styles = StyleSheet.create({
         marginBottom: 12,
     },
 });
+
+
+export default InstructionText;
