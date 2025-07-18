@@ -309,8 +309,11 @@ eas build --platform all
 - Test on both iOS and Android
 - Maintain responsive design principles
 
-## 📄 License
+## 🎯 Application download and test
+You can download the APK version using [this link](https://drive.google.com/file/d/19rqW2xb2KXeV13JtRaWubDaWdjW5WLuL/view?usp=drive_link)
 
+
+## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
